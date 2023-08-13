@@ -5,5 +5,4 @@ This project is a racing game that shows the number of teams, the names of the t
 At the output, the points of the teams, players and the champion team. 
 
 --------------------------- motogp game ---------------------------
-
-
+just for test
